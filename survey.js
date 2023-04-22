@@ -30,7 +30,7 @@ const askQuestions = function(index) {
 };
 
 const profileGenerator = function() {
-  console.log(`${answers[0]} loves ${answers[2]} while ${answers[1]}, devouring ${answers[4]} for ${answers[3]}, prefers ${answers[5]} over any other sport, and is amazing at ${answers[6]}.`);
+  console.log(`${answers[0]} loves listening to ${answers[2]} while ${answers[1]}, devouring ${answers[4]} for ${answers[3]}, prefers ${answers[5]} over any other sport, and is amazing at ${answers[6]}.`);
 };
 
 askQuestions(0);
